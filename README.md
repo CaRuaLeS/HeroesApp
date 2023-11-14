@@ -16,6 +16,14 @@
 - Peticiones HtTP
 - ...
 
+## SC-15: CRUD Heroes
+
+- CRUD: Create, Read, Update, Delete
+- Pipes puros e impuros
+- Snacks
+- Dialog - Angular Material
+- Inyección de servicios manualmete
+
 ---
 
 ## Dev
