@@ -24,6 +24,17 @@
 - Dialog - Angular Material
 - Inyección de servicios manualmete
 
+## SC-16: Protección de Rutas
+
+- Protección de rutas
+- Rutas privadas
+- Rutas públicas
+- Servicio de autenticación
+- Guards
+- Can Activate
+- Can Match
+- Mantener sesión al usuario
+
 ---
 
 ## Dev
